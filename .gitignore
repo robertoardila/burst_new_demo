@@ -1,0 +1,9 @@
+/.vs/burst_new_demo/v15/*.suo
+/*.vsconfig
+/*.csproj
+/Library
+/*.sln
+/obj/Debug
+/Logs
+/*.user
+/.vs/burst_new_demo/DesignTimeBuild
